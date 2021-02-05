@@ -1,4 +1,4 @@
-levis501.github.com
+levis501.github.io
 ===================
 
-https://help.github.com/articles/creating-pages-with-the-automatic-generator
+github pages 
